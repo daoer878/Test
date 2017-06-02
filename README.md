@@ -36,8 +36,10 @@ Deploy in release (production)
 Confluence
 Support team: 
 documents: How To.
+requirment, meeting note.
 
 jira/github integration
+TEST, ESTIMAT(story Point)
 
 
 
