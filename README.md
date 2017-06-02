@@ -32,3 +32,14 @@ Deploy in release (production)
  ## Firefox Add-On IDE : firefox plugin
  
  
+# JIRA Confluence
+Confluence
+Support team: 
+documents: How To.
+
+jira/github integration
+
+
+
+
+
