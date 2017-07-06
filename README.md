@@ -61,3 +61,17 @@ TEST, ESTIMAT(story Point)
 
 
 
+# Cloud
+Speed
+Co-location
+IaaS 
+Public Cloud
+Open Cloud ? (share)
+
+
+
+SaaS (Software as a Service)   CUSCTOMER
+PaaS (Plateform )   DEVELOPPER
+IaaS (Infrastructure )   SYS ADMIN
+Utility Computing: use as unitiy     Capex (Capital) -> Opex (Operation expense)
+Grid Computing: 
