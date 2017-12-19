@@ -72,27 +72,27 @@ IaaS (Infrastructure )   SYS ADMIN
 Utility Computing: use as unitiy     Capex (Capital) -> Opex (Operation expense)
 Grid Computing
 
-## GBDS(Group big data services) Instroduction
+# GBDS(Group big data services) Instroduction
 zhuo li lin
 
-diffierent service categorie teams: 
-## DATA acuisition
+#### diffierent service categorie teams: 
+1. DATA acuisition
 ingection ; HUB,ect  24 TB NOW
 bigData=>lake
 We can see also with a platform 
 
-### PLATFORM BUILD AND SUPPORT
+2. PLATFORM BUILD AND SUPPORT
 base admin 
 Team admin Hadoop, base: 1 person in china, MAIN IN india
 
-### Data enginering and tooling
+3. Data enginering and tooling
 Canton,
 provide analytics and data management tools that enable In-Lake data processing
 Build Big Data tooling portfilio that enables self service 
 Diliver the end-to-end data engineering services
 NEW: DaaS(Data As A sercivec) platform  (user can do import new data by themself, now is using requirement process)
 
-## Organisation
+#### Organisation
 ROB KELLAWAY   head of Big data services
 
 DSAP Gerry Rankin sercurity 2
@@ -100,14 +100,11 @@ Big Data Platform INDIAN  41
 Date ENGINERRING  23 CHINE
 Head of INGEST TBD  51
 
-## Platform
+#### Platform
 DATA LAKE  : software HORTONWORKS HDP 2.4/2.6: capitulation,visualisation,consult
-
-
-#Cloud choose
+#### Cloud choose
 If data stock AWS
 IF analytics more GOOGLE
-
 
 spark faster than Hive
 Zeppelin: Dashboard 
@@ -116,11 +113,9 @@ privlter: crypt
 
 LOCATE IN UK and HK(begin last year) data center  800 systems
 
-#
-
 gbds.uk.hsbc10090/gbds/login
 
-
+####  structure
 DELIVER SEVICE PaaS 
 PREVISION DATA DaaS
 STERE, DISTRIBUTE and PROCESSE Data DaaS
